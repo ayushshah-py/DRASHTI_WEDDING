@@ -49,6 +49,6 @@ const weddingVenue = new Location('Mishtten Resort, Rajasthan');
 
 ## Credits for the Project 
 
-* Vinit Shahdeo - GitHub - https://github.com/vinitshahdeo  Project - https://github.com/vinitshahdeo/Wedding-Invitation
+* AYUSH SHAH - GitHub - https://github.com/ayushshah-py/DRASHTI_WEDDING.git  Project - https://github.com/ayushshah-py/DRASHTI_WEDDING.git
 
-* Sanket Singh - GitHub - https://github.com/singhsanket143 LinkedIn - https://www.linkedin.com/in/singhsanket143/ 
+* AYUSH SHAH - INSTAGRAM - https://github.com/singhsanket143 LinkedIn - https://www.linkedin.com/in/singhsanket143/ 
